@@ -37,12 +37,12 @@ a{
 a.gallery{
     position:relative;
     background-color:#fff;
-    color:#060042;
+    color:#313131;
     /*font-weight:700;*/
 }
 
 a.gallery:before{
-    content:"";
+    content: "";
     position:absolute;
     top:2px;left:2px;
     width:calc(100% - 4px);
@@ -62,7 +62,6 @@ h2{
     display:flex;
     max-width:400px;
     margin:0 auto;
-
 }
 
 .channels a{
