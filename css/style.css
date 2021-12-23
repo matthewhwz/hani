@@ -9,7 +9,7 @@ html{
 
 body{
     background-color:#060042;
-    background-image:linear-gradient(125deg, #525252,#313131);
+    background-image:linear-gradient(125deg, #313131,#525252);
     color:#fff;
     min-height:100vh;
     text-align:center;
